@@ -1,4 +1,4 @@
-<div align=center><strong>Game Schedule Tracker 프로젝트</strong></div>
+<div align=center><strong>Game Schedule Tracker 버전 2</strong></div>
 <hr>
 
 ### 리팩토링
