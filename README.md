@@ -1,5 +1,4 @@
 ## Game Schedule Tracker 버전 2
-<hr>
 
 ### 리팩토링 내용
 
