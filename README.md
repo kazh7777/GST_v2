@@ -1,7 +1,7 @@
-<div align=left><strong>Game Schedule Tracker 버전 2</strong></div>
+## Game Schedule Tracker 버전 2
 <hr>
 
-### 리팩토링
+### 리팩토링 내용
 
 #### 기능 모듈화 
 ❌ 기존에는 서버 내 기능이 server.js 파일에 모두 구현<br>
